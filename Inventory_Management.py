@@ -2,11 +2,8 @@
 Welcome, manager, to your new place of employment: BrB_ Inc., the OFFICIAL manufacturer of bootleg Breaking Bad merchandise!
 Naturally, it's a very competitive industry we find ourselves in. In order to keep up with the competition, we have to be on
 top of every detail of our financial well-being, and this includes inventory! Your job is to determine how much inventory
-value we have, how much of each product we have, which product has the highest contribution margin, and how our inventory would
-be affected should we have a sale.
-
-I never thought I would find myself coding an inventory management system for a Breaking Bad bootleg merch store. The places that
-information systems takes you are extraordinary!
+value we have, keep track of individual product stats, see what our highest value product is, and check to see if we need to
+reorder anything. We like to have at least 30 of each item on hand at all times.
 
 Inputs:
 - What product do you want to take a look at? (str) (This assumes the user knows the names of all inventory items)
